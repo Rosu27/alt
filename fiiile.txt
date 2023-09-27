@@ -1,1 +1,5 @@
 fisier3.txt
+deProba
+incerc
+sa vad
+fetch
